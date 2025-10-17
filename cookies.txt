@@ -1,0 +1,25 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.youtube.com	TRUE	/	FALSE	1999999999	GPS	1
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	NfFZ5Xrbuk8
+www.linkedin.com	TRUE	/	FALSE	1999999999	JSESSIONID	ajax:2312149419958999301
+www.linkedin.com	TRUE	/	FALSE	1999999999	lang	v=2&lang=en-us
+.linkedin.com	TRUE	/	FALSE	1999999999	lidc	b=VGST05:s=V:r=V:a=V:p=V:g=3502:u=1:x=1:i=1760345869:t=1760432269:v=2:sig=AQGh7TYvXscE7RqSFtQOaHsnCDLJA39j"
+www.linkedin.com	TRUE	/	FALSE	1999999999	li_rm	AQGPcoXMotbp4gAAAZncylJvMh6QtpPcpo2riFCJguO7TDRrtJIWasiPImubpoOOftr_tPIpOARp0R_Jul-Krl1pMVhPferfzEZRjZsJ1K-LuNpedzBhdTf_
+.www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+.instagram.com	TRUE	/	FALSE	1999999999	csrftoken	XVSW_vO3f2vLxL_aPIibW-
+www.instagram.com	TRUE	/	FALSE	1999999999	SameSite	None
+rstheme.com	TRUE	/	FALSE	1999999999	nevercache-b39818	Y
+.linkedin.com	TRUE	/	FALSE	1999999999	bcookie	v=2&8eeaefc1-8ee9-4765-87d0-f0508cd0beb9"
+.www.linkedin.com	TRUE	/	FALSE	1999999999	bscookie	v=1&2025101309004371c5ace9-0d00-4abd-8b1b-922b95b6ee44AQG4RaiXv6CThWh_H9k6YNVm4KWV7OSY"
+www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+.youtube.com	TRUE	/	FALSE	1999999999	__Secure-YNID	12.YT=ANfd-mc7c98sjdPzzczk-_IpoUnNRixu03eB98nrjxr3jfRgmXgdR-Ds43unNIPtwU9SuJbi3qcghLP91P1KV6J7IHhTMK7oQ5X-kGaBCSaPqczsD4OLJ502-bKhLGWdqFYPNPD2eB3g-ekT1mDjRwUrATKFKcLuY4uH4AsNO9AvIiFhhxN4t4GQhwTIeh-CxbEpez8DjsOZuD3yx7C4AgPdPkCNOf0q3lB4yf_Ld6-dalErIsh2_YAI8iyrWGYtQT6VXIAjweGt2b4N2u7yf_B6DZzPSfQVhHcH3Q9tCNkLPfO90H6Bp8uPYqMoE7UalAgsjQToUY0jJyrgewxMrw
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	lCdxNy5lxg8
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_PRIVACY_METADATA	CgJJThIEGgAgKw%3D%3D
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+youtube.com	TRUE	/	FALSE	1999999999	__Secure-ROLLOUT_TOKEN	COHA9MrLprif0AEQreHT6eKgkAMYqsfAh-igkAM%3D
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+.w3.org	TRUE	/	FALSE	1999999999	__cf_bm	k..Z9GM6QNTUA4xMRyb_T_m865I16yXeMntZB7HjO5o-1760349885-1.0.1.1-pH9zKCvdv4xBWdy367.6s96_e.C2i4jahXSNZyHVU.YEDpaHkwpTt1yWim5uzrlR.oBnjR2nG1sqdWiAUUAho29x0GH3CJuMz77A.EHHR_4
+www.w3.org	TRUE	/	FALSE	1999999999	SameSite	None
+
